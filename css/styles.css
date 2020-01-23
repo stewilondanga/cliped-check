@@ -1,4 +1,17 @@
 @import url("https://fonts.googleapis.com/css?family=Open+Sans");
+
+body {
+  display: -webkit-box;
+  display: flex;
+  -webkit-box-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  justify-content: center;
+  height: 100vh;
+  background: white;
+  overflow: hidden;
+}
+
 /*body {
   text-align: center;
   font-family: courier;
@@ -22,17 +35,6 @@
   height: 1.5em;
 }
 
-body {
-  display: -webkit-box;
-  display: flex;
-  -webkit-box-align: center;
-          align-items: center;
-  -webkit-box-pack: center;
-          justify-content: center;
-  height: 100vh;
-  background: white;
-  overflow: hidden;
-}
 
 #check {
   z-index: -1;

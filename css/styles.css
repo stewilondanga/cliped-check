@@ -62,7 +62,7 @@ body {
   transition: all 0.3s;
 }
 
-/*.check_label {
+.check_label {
   width: 60px;
   height: 60px;
   background: white;
@@ -76,7 +76,7 @@ body {
   cursor: pointer;
 }
 
-.effect {
+/*.effect {
   position: absolute;
   width: 60px;
   height: 60px;

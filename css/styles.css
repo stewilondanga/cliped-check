@@ -56,13 +56,13 @@ body {
   transition: all 0.5s ease;
 }
 
-/*#check:checked + .container .check_label .effect {
+#check:checked+.container .check_label .effect {
   opacity: 0;
   -webkit-transition: all 0.3s;
   transition: all 0.3s;
 }
 
-.check_label {
+/*.check_label {
   width: 60px;
   height: 60px;
   background: white;

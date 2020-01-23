@@ -76,7 +76,7 @@ body {
   cursor: pointer;
 }
 
-/*.effect {
+.effect {
   position: absolute;
   width: 60px;
   height: 60px;
@@ -85,10 +85,10 @@ body {
   -webkit-transition: all 0.5s;
   transition: all 0.5s;
   -webkit-transition-delay: 0.1s;
-          transition-delay: 0.1s;
+  transition-delay: 0.1s;
 }
 
-.containers {
+/*.containers {
   width: 520px;
   margin: 20px auto;
 }

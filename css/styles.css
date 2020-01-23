@@ -27,12 +27,12 @@ body {
   height: 1.5em;
 }
 
-/*#check {
+#check {
   z-index: -1;
   display: none;
 }
 
-.container {
+/*.container {
   display: -webkit-box;
   display: flex;
   -webkit-box-align: center;
